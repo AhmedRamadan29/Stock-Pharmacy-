@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Pharmaceutical.sql" type="DatabaseScript" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="true">
+    <script-file value="$PROJECT_DIR$/src/main/resources/Mysql.sql" />
+    <script-file value="$PROJECT_DIR$/src/main/resources/Mysql.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="a1e21d4c-ae7b-4cb9-b66f-fd63c39f08e1" />
+    <method v="2" />
+  </configuration>
+</component>
